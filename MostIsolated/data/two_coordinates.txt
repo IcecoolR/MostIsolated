@@ -1,0 +1,2 @@
+place0 0 0
+place1 1 1

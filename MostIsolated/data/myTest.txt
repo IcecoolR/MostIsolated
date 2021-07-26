@@ -1,0 +1,14 @@
+place0 1000 1000
+place1 650 04
+place3 552 523
+place4 646 734
+place5 842 20
+place6 555 542
+place7 9 800
+place8 102 195
+place9 891 456
+place10 241 783
+place11 156 481
+place12 892 792
+place13 895 176
+place14 0 0
